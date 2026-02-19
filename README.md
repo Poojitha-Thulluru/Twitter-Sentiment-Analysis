@@ -57,7 +57,6 @@ pip install pandas scikit-learn
 ```
 
 ## Usage
-1. Download the dataset (e.g., `data.csv`) and place it in the project directory.
+1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140) and place the `training.1600000.processed.noemoticon.csv` file as `data.csv` in your project directory.
 2. Run the provided Python notebook or script (`.ipynb` or `.py`).
 3. The notebook will perform data loading, preprocessing, model training, evaluation, and demonstrate sample predictions.
-"""
